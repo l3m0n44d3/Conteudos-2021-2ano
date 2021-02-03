@@ -1,7 +1,0 @@
-Quimica 1
--Calculo estequiometrico
-    -Leis ponderais
-        -Lei de conservação das massas - Lavoisier
-        -Lei das proporções constantes - Proust
-    -Lei Volumétrica
-        -Lei das proporções volumétricas constantes - Gay-Lussac

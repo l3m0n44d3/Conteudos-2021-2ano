@@ -1,7 +1,0 @@
-Biologia 1
--Fisiologia
-    -Anatomia basica
-        -Nutrição
--Botanica
--Zoologia
-    -Reinos animais
