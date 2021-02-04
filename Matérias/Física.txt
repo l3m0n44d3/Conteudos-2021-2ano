@@ -1,1 +1,11 @@
 Física
+-Fisica termica
+    -Termodinamica
+        -Termometria
+            -Temperatura
+            -Calor
+            -Equilibrio Térmico
+            -Energia Termica
+-Ondas
+-Acustica
+-Optica
