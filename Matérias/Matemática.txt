@@ -1,4 +1,6 @@
 Mat. 1
+-Probabilidade
+-Analíse combinatoria
 
 Mat. 2
 -Trigonometria
