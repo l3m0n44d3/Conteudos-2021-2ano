@@ -1,4 +1,12 @@
 Mat. 1
+-Probabilidade
+-Analíse combinatoria
+
+//
+-Matrizes
+-Logaritmos
+//
+
 
 Mat. 2
 -Trigonometria

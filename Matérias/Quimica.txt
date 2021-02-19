@@ -5,3 +5,9 @@ Quimica 1
         -Lei das proporções constantes - Proust
     -Lei Volumétrica
         -Lei das proporções volumétricas constantes - Gay-Lussac
+
+Quimica 2
+-Ligação Covalente//Ligações Quimicas
+-Polaridade
+-Geometria molecular
+-Interações intermoleculares
