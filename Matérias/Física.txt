@@ -9,3 +9,6 @@ Física
 -Ondas
 -Acustica
 -Optica
+
+--AVU 1--
+-Capitulos 1, 2 e parte do 3

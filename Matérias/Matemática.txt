@@ -13,3 +13,12 @@ Mat. 2
 -Áreas das figuras planas
 -Geometria espacial
 -Geometria analítica
+
+--AVU 1--
+MATEMÁTICA 1
+-Capítulos 1, 2 e 3
+
+MATEMÁTICA 2 
+-Log
+-Função Logarítma 
+-Matriz
