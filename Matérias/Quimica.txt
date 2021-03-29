@@ -11,3 +11,8 @@ Quimica 2
 -Polaridade
 -Geometria molecular
 -Interações intermoleculares
+
+--AVU 1--
+QUÍMICA 1
+-Cálculo Estequiométrico
+-Estudo dos Gases
